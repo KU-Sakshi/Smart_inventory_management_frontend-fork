@@ -1,0 +1,1 @@
+# Smart_stock_management_frontend.
